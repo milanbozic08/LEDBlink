@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Blink/Core/Src/interupts.c&apos; to &apos;interrupts.c&apos;" description="Rename resource &apos;interupts.c&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Core/Src/interupts.c" name="interrupts.c" stamp="1650587419081" updateReferences="true"/>
+</session>
